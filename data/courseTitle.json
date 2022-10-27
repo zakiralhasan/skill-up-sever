@@ -1,0 +1,32 @@
+[
+    {
+        "id":"a1b1",
+        "name":"Spoken english",
+        "img":"https://i.ibb.co/376mQqx/spoken-english.jpg"
+    },
+    {
+        "id":"a1b2",
+        "name":"Digital marketing",
+        "img":"https://i.ibb.co/hD06jMM/digital-marketing.png"
+    },
+    {
+        "id":"a1b3",
+        "name":"Photo editing",
+        "img":"https://i.ibb.co/Nym2xcq/photoshop.jpg"
+    },
+    {
+        "id":"a1b4",
+        "name":"Programming",
+        "img":"https://i.ibb.co/r35VvTH/java-script.jpg"
+    },
+    {
+        "id":"a1b5",
+        "name":"Video editing",
+        "img":"https://i.ibb.co/3N77h9D/video-editing.jpg"
+    },
+    {
+        "id":"a1b6",
+        "name":"Networking",
+        "img":"https://i.ibb.co/hg8PHw0/networking.jpg"
+    }
+]
