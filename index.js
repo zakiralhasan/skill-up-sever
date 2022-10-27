@@ -17,8 +17,19 @@ app.get("/course", (req, res) => {
   res.send(courseTitle);
 });
 
-//course data send through API
+//course data send for course details through API
 app.get("/course/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedData = courseDetails.find(
+    (course) => course.category_id === id
+  );
+  res.send(selectedData);
+  console.log(id);
+  console.log(selectedData);
+});
+
+//course data send for premium through API
+app.get("/premium/:id", (req, res) => {
   const id = req.params.id;
   const selectedData = courseDetails.find(
     (course) => course.category_id === id

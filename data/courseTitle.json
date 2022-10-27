@@ -2,31 +2,37 @@
     {
         "id":"a1b1",
         "name":"Spoken english",
-        "img":"https://i.ibb.co/376mQqx/spoken-english.jpg"
+        "img":"https://i.ibb.co/376mQqx/spoken-english.jpg",
+        "price":"90"
     },
     {
         "id":"a1b2",
         "name":"Digital marketing",
-        "img":"https://i.ibb.co/hD06jMM/digital-marketing.png"
+        "img":"https://i.ibb.co/hD06jMM/digital-marketing.png",
+        "price":"80"
     },
     {
         "id":"a1b3",
         "name":"Photo editing",
-        "img":"https://i.ibb.co/Nym2xcq/photoshop.jpg"
+        "img":"https://i.ibb.co/Nym2xcq/photoshop.jpg",
+        "price":"110"
     },
     {
         "id":"a1b4",
         "name":"Programming",
-        "img":"https://i.ibb.co/r35VvTH/java-script.jpg"
+        "img":"https://i.ibb.co/r35VvTH/java-script.jpg",
+        "price":"150"
     },
     {
         "id":"a1b5",
         "name":"Video editing",
-        "img":"https://i.ibb.co/3N77h9D/video-editing.jpg"
+        "img":"https://i.ibb.co/3N77h9D/video-editing.jpg",
+        "price":"180"
     },
     {
         "id":"a1b6",
         "name":"Networking",
-        "img":"https://i.ibb.co/hg8PHw0/networking.jpg"
+        "img":"https://i.ibb.co/hg8PHw0/networking.jpg",
+        "price":"100"
     }
 ]

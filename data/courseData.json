@@ -7,7 +7,8 @@
         "topics01":"Listening is receiving language through the ears. Listening involves identifying the sounds of speech and processing them into words and sentences. When we listen, we use our ears to receive individual sounds (letters, stress, rhythm and pauses) and we use our brain to convert these into messages that mean something to us.",
         "topics02":"Reading is the process of looking at a series of written symbols and getting meaning from them. When we read, we use our eyes to receive written symbols (letters, punctuation marks and spaces) and we use our brain to convert them into words, sentences and paragraphs that communicate something to us.",
         "topics03":"Writing is the process of using symbols (letters of the alphabet, punctuation, and spaces) to communicate thoughts and ideas in a readable form.",
-        "topics04":"Speaking is the delivery of language through the mouth. To speak, we create sounds using many parts of our body, including the lungs, vocal tract, vocal chords, tongue, teeth and lips."
+        "topics04":"Speaking is the delivery of language through the mouth. To speak, we create sounds using many parts of our body, including the lungs, vocal tract, vocal chords, tongue, teeth and lips.",
+        "price":"90"
     },
     {
         "id":"02",
@@ -17,7 +18,8 @@
         "topics01":"Search Engine Optimisation or SEO is essentially making alterations to your website, so it organically ranks first on a search engine`s results page (SERP). It is arguably the heaviest part of the course, however certain institutes teaching methods and support make it easier for students.",
         "topics02":"Social Media Marketing (SMM) involves paid as well as organic marketing techniques on social media platforms like Facebook, Instagram, YouTube and more to drive traffic to a company`s website. In this module, you will learn to create effective social media strategies on platforms such as Facebook, Twitter, Instagram, YouTube, LinkedIn, Pinterest, Google+, Snapchat, etc.",
         "topics03":"In layman`s terms, email marketing is the process of using electronic mail to communicate commercial messages to a current or potential consumer. In this module you will learn about the types of emails and how to create an appealing email; essentially to drive conversion or an action from a consumer.",
-        "topics04":"Through this module, you will learn how to monetize a blog or a website through Adsense and affiliate marketing. You will learn how to leverage the power of Google Adsense and YouTube Adsense to generate revenue from a website or a blog. In addition to this, very few courses will teach you how to write creative content which is SEO-friendly."
+        "topics04":"Through this module, you will learn how to monetize a blog or a website through Adsense and affiliate marketing. You will learn how to leverage the power of Google Adsense and YouTube Adsense to generate revenue from a website or a blog. In addition to this, very few courses will teach you how to write creative content which is SEO-friendly.",
+        "price":"80"
     },
     {
         "id":"03",
@@ -27,7 +29,8 @@
         "topics01":"There's a reason that the name Photoshop has because synonymous with digital image editing. It is quite simply the best piece of photo-editing software around, with features and functionality that far exceed any competitors. Adobe has been boosting Photoshop extensively with each iteration, and lately we've seen more and more AI-powered tools that make it even more slick and streamlined.",
         "topics02":"Lightroom`s clean and easy workspace allows you to focus on what`s important your image. The left-hand panel gives you quick access to your image library, so you can toggle between photos as you edit. Within the right-hand panel, you`ll find drop-down menus for making quick adjustments, adding keywords to your images and more.",
         "topics03":"Adobe Illustrator is one of the most popular, reliable, and feature-packed design software for creating vector graphics, sketches, drawings, and artwork.",
-        "topics04":"Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows."
+        "topics04":"Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.",
+        "price":"110"
     },
     {
         "id":"04",
@@ -37,7 +40,8 @@
         "topics01":"Syntax refers to the rules that define the structure of a language. Syntax in computer programming means the rules that control the structure of the symbols, punctuation, and words of a programming language. Without syntax, the meaning or semantics of a language is nearly impossible to understand.",
         "topics02":"In computer programming, a string is traditionally a sequence of characters, either as a literal constant or as some kind of variable. The latter may allow its elements to be mutated and the length changed, or it may be fixed (after creation).",
         "topics03":"Every programming language provides support for manipulating different types of numbers such as simple whole integers and floating point numbers.",
-        "topics04":"The fundamental idea behind array programming is that operations apply at once to an entire set of values. This makes it a high-level programming model as it allows the programmer to think and operate on whole aggregates of data, without having to resort to explicit loops of individual scalar operations."
+        "topics04":"The fundamental idea behind array programming is that operations apply at once to an entire set of values. This makes it a high-level programming model as it allows the programmer to think and operate on whole aggregates of data, without having to resort to explicit loops of individual scalar operations.",
+        "price":"150"
     },
     {
         "id":"05",
@@ -47,7 +51,8 @@
         "topics01":"Suitable for even the most demanding users, Adobe Premiere Pro is an expansive, professional-level digital video editing program with excellent collaboration tools.",
         "topics02":"Final Cut Pro offers a wealth of video editing power in a relatively simple interface, making it worth the price for professionals and serious hobbyists alike.",
         "topics03":"Corel VideoStudio is a feature-packed and intuitive consumer video editing program. New tools give you fun ways to edit faces, create GIFs, generate captions with speech-to-text, and more.",
-        "topics04":"Wondershare's Filmora video editing software may not have multicam support or the hottest new VR tools, but it does offer a pleasing interface and lots of effects."
+        "topics04":"Wondershare's Filmora video editing software may not have multicam support or the hottest new VR tools, but it does offer a pleasing interface and lots of effects.",
+        "price":"180"
     },
     {
         "id":"06",
@@ -57,6 +62,7 @@
         "topics01":"A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other.",
         "topics02":"The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network. It was the first standard model for network communications, adopted by all major computer and telecommunication companies in the early 1980s.",
         "topics03":"A network protocol is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure or design.",
-        "topics04":"The way a network operates is to connect computers and peripherals using two pieces of equipment - switches and routers. These two let the devices connected to your network talk with each other as well as talk to other networks."
+        "topics04":"The way a network operates is to connect computers and peripherals using two pieces of equipment - switches and routers. These two let the devices connected to your network talk with each other as well as talk to other networks.",
+        "price":"100"
     }
 ]
